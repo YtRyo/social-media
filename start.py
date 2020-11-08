@@ -6,7 +6,7 @@ import requests, time, sys, json
 # Wesite: bit.ly/YtRyoWeb
 
 # Enter the API token here | Get API token at https://afara.my.id
-Token = 'En7oT0NDqRS19Qb8OXtHwdMt0aLihV'
+Token = 'API_TOKEN_HERE'
 
 def login():
     headers = {
